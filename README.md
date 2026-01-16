@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Martin Alexander Sinurat</h1>
 <p align="center">
   <b>SA-MP Server Developer</b> • <b>Pawn Enthusiast</b> • <b>Future Full-Stack Developer</b><br/>
-  📍 Samosir, Sumatra Utara, Indonesia • 🎂 15 y/o • 🚀 Building server systems & scripts
+  📍 Sumatra Utara, Indonesia • 🎂 15 y/o • 🚀 Building server systems & scripts
 </p>
 
 <p align="center">
@@ -85,11 +85,6 @@ I share SA-MP development tutorials & server showcases here:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartinSAMP&theme=radical&hide_border=true" />
 </p>
-
-
-## 🏞️ About My Location
-**Samosir, Sumatra Utara** — near *Danau Toba*, one of the largest volcanic lakes in the world.  
-Cool highland vibes = perfect for focus & building projects. 🌿💻
 
 
 ## 🤝 Collaboration
