@@ -54,13 +54,6 @@
 - ✅ Database (MySQL) Systems & Queries
 - ✅ Anti-Cheat & Security Logic
 
-### 🧰 Tools I Use
-<p>
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/DB-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white" />
-</p>
-
 
 ## 🎯 Current Goals (2026)
 - 🔨 Build advanced SA-MP server systems
