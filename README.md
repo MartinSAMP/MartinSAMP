@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MartinSAMP&color=0e75b6&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/📍-Danau_Toba,_Sumatra_Utara-2E8B57" />
+  <img src="https://img.shields.io/badge/📍-Sumatra_Utara-2E8B57" />
   <img src="https://img.shields.io/badge/🎂-15_years_old-FF6B6B" />
   <img src="https://img.shields.io/badge/🎮-SA--MP_Developer-8B4513" />
 </p>
