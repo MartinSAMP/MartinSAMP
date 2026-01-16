@@ -21,8 +21,8 @@
   <a href="mailto:martinyy09@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.gg/your-invite-link">
-    <img src="https://img.shields.io/badge/Discord-Martin_Sinurat-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.gg/dttnHZCG7j">
+    <img src="https://img.shields.io/badge/Discord-Martin_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
