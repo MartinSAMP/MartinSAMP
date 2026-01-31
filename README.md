@@ -1,14 +1,6 @@
 <h1 align="center">👋 Hi, I'm Martin Alexander Sinurat</h1>
 <p align="center">
   <b>SA-MP Server Developer</b> • <b>Pawn Enthusiast</b> • <b>Future Full-Stack Developer</b><br/>
-  📍 Sumatra Utara, Indonesia • 🎂 15 y/o • 🚀 Building server systems & scripts
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MartinSAMP&color=0e75b6&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/📍-Sumatra_Utara-2E8B57" />
-  <img src="https://img.shields.io/badge/🎂-15_years_old-FF6B6B" />
-  <img src="https://img.shields.io/badge/🎮-SA--MP_Developer-8B4513" />
 </p>
 
 <p align="center">
@@ -27,38 +19,22 @@
 </p>
 
 
-## ✨ About Me
-- 🎮 Fokus: **SA-MP Gamemode, Filterscript, Plugins Integration**
-- 🧠 Suka bikin sistem yang **rapi, modular, dan gampang di-maintain**
-- 🗃️ Lagi ngembangin: **MySQL systems, anti-cheat, admin tools, logging**
-- 🌱 Belajar: **Full-stack web**
-
-> “Building the future, one script at a time.” 🚀
+## About Me
+- Fokus: **SA-MP Gamemode, Filterscript, Plugins Integration**
+- Suka bikin sistem yang **rapi, modular, dan gampang di-maintain**
+- Lagi ngembangin: **MySQL systems, anti-cheat, admin tools, logging**
+- Belajar: **Full-stack web**
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming
+### Programming
 <p>
   <img src="https://img.shields.io/badge/Pawn-Expert-FFD700?style=flat&logo=none" />
   <img src="https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/SQL-Basics-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
-
-### 🎮 SA-MP Development
-- ✅ Gamemode Development
-- ✅ Filterscripts & Commands
-- ✅ Plugins Integration
-- ✅ Server Management & Optimization
-- ✅ Database (MySQL) Systems & Queries
-- ✅ Anti-Cheat & Security Logic
-
-
-## 🎯 Current Goals (2026)
-- 🔨 Build advanced SA-MP server systems
-- 🌐 Improve web dev skill
-- 📱 Explore mobile app development
 
 
 ## 📺 YouTube
@@ -86,7 +62,6 @@ I share SA-MP development tutorials & server showcases here:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartinSAMP&theme=radical&hide_border=true" />
 </p>
 
-
-## 🤝 Collaboration
+## Collaboration
 - Open to collaborate on: **SA-MP scripts, systems, database integration, anti-cheat logic**
 - If you have a server project idea, feel free to reach out via **Email/Discord**.
