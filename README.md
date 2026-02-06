@@ -32,6 +32,7 @@
 <p>
   <img src="https://img.shields.io/badge/Pawn-Expert-FFD700?style=flat&logo=none" />
   <img src="https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Basic-FFD700?style=flat&logo=none" />
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/SQL-Basics-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
