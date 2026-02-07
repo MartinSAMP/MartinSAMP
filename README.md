@@ -49,19 +49,11 @@ I share SA-MP development tutorials & server showcases here:
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MartinSAMP&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSAMP&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartinSAMP&theme=radical&hide_border=true" />
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MartinSAMP&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MartinSAMP&theme=nord_dark" alt="stats-graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MartinSAMP&theme=nord_dark" alt="langs-byrepo"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MartinSAM&theme=nord_dark" alt="langs-bycommit"/>
+</div>
 
 ## Collaboration
 - Open to collaborate on: **SA-MP scripts, systems, database integration, anti-cheat logic**
