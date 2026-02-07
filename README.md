@@ -1,20 +1,5 @@
 # Hey, I'm Martin! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center">
-  <a href="https://github.com/MartinSAMP">
-    <img src="https://img.shields.io/badge/GitHub-MartinSAMP-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.youtube.com/@martinsamp">
-    <img src="https://img.shields.io/badge/YouTube-@martinsamp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:martinyy09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="[https://discord.gg/dttnHZCG7j](https://discord.gg/WUemgjdHYw)">
-    <img src="https://img.shields.io/badge/Discord-Martin_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
 
 ## About Me
 - Fokus: **SA-MP Gamemode, Filterscript, Plugins Integration**
@@ -55,3 +40,19 @@ I share SA-MP development tutorials & server showcases here:
 ## Collaboration
 - Open to collaborate on: **SA-MP scripts, systems, database integration, anti-cheat logic**
 - If you have a server project idea, feel free to reach out via **Email/Discord**.
+
+<h2 align="center">🌐 Where to Find Me</h2>
+<p align="center">
+  <a href="https://github.com/MartinSAMP">
+    <img src="https://img.shields.io/badge/GitHub-MartinSAMP-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.youtube.com/@martinsamp">
+    <img src="https://img.shields.io/badge/YouTube-@martinsamp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:martinyy09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[https://discord.gg/dttnHZCG7j](https://discord.gg/WUemgjdHYw)">
+    <img src="https://img.shields.io/badge/Discord-Martin_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
