@@ -8,15 +8,16 @@
 - Belajar: **Full-stack web**
 
 
-## Tech Stack
+## 💻 Tech Stack
 
-### Programming
-<p>
-  <img src="https://img.shields.io/badge/Pawn-Expert-FFD700?style=flat&logo=none" />
-  <img src="https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-basic-3178C6?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Basics-4479A1?style=flat&logo=mysql&logoColor=white" />
+### Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Pawn-Expert-FFD700?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-Basic-3178C6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-Basics-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 
