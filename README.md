@@ -11,14 +11,29 @@
 ## 💻 Tech Stack
 
 ### Programming Languages
-
 <p align="left">
   <img src="https://img.shields.io/badge/Pawn-Expert-FFD700?style=for-the-badge&logo=none" />
   <img src="https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-Basic-3178C6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Basics-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-Intermediate-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-Basic-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-Basic-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-Basic-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-Basic-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-Basic-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
 
 
 ## 📺 YouTube
