@@ -1,7 +1,4 @@
-<h1 align="center">👋 Hi, I'm Martin Alexander Sinurat</h1>
-<p align="center">
-  <b>SA-MP Server Developer</b> • <b>Pawn Enthusiast</b> • <b>Future Full-Stack Developer</b><br/>
-</p>
+# Hey, I'm Martin! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
   <a href="https://github.com/MartinSAMP">
