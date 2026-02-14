@@ -62,13 +62,16 @@ I share SA-MP development tutorials & server showcases here:
   <a href="https://github.com/MartinSAMP">
     <img src="https://img.shields.io/badge/GitHub-MartinSAMP-181717?style=for-the-badge&logo=github" />
   </a>
+    <a href="https://huggingface.co/martinSAMP">
+    <img src="https://img.shields.io/badge/HuggingFace-martinSAMP-181717?style=for-the-badge&logo=github" />
+  </a>
   <a href="https://www.youtube.com/@martinsamp">
     <img src="https://img.shields.io/badge/YouTube-@martinsamp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:martinyy09@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://discord.gg/dttnHZCG7j](https://discord.gg/WUemgjdHYw)">
+  <a href="https://discord.gg/WUemgjdHYw">
     <img src="https://img.shields.io/badge/Discord-Martin_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
