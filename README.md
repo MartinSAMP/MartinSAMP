@@ -1,77 +1,122 @@
-# Hey, I'm Martin! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
-## About Me
-- Fokus: **SA-MP Gamemode, Filterscript, Plugins Integration**
-- Suka bikin sistem yang **rapi, modular, dan gampang di-maintain**
-- Lagi ngembangin: **MySQL systems, anti-cheat, admin tools, logging**
-- Belajar: **Full-stack web**
-
-
-## 💻 Tech Stack
-
-### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Pawn-Expert-FFD700?style=for-the-badge&logo=none" />
-  <img src="https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-Basic-3178C6?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-Intermediate-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-Basic-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-Basic-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-Basic-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-Basic-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-Basic-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-
-
-## 📺 YouTube
-I share SA-MP development tutorials & server showcases here:  
-👉 https://www.youtube.com/@martinsamp  
-<p>
-  <a href="https://www.youtube.com/@martinsamp?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
-
-## 📊 GitHub Stats
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MartinSAMP&theme=nord_dark" alt="stats-graph"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MartinSAMP&theme=nord_dark" alt="langs-byrepo"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MartinSAM&theme=nord_dark" alt="langs-bycommit"/>
+  
+  # Hey, I'm Martin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=SA-MP+Developer;Full-Stack+Enthusiast;Clean+Code+Advocate;Open+Source+Contributor" alt="Typing SVG" />
+  
+  <br>
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=MartinSAMP&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/MartinSAMP)
+  [![GitHub followers](https://img.shields.io/github/followers/MartinSAMP?color=00d9ff&label=Followers&style=flat-square)](https://github.com/MartinSAMP)
+  [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxxxxxxxxxxxxxxxx?color=ff0000&label=YouTube&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@martinsamp)
+  
 </div>
 
-## Collaboration
-- Open to collaborate on: **SA-MP scripts, systems, database integration, anti-cheat logic**
-- If you have a server project idea, feel free to reach out via **Email/Discord**.
+---
 
-<h2 align="center">🌐 Where to Find Me</h2>
-<p align="center">
-  <a href="https://github.com/MartinSAMP">
-    <img src="https://img.shields.io/badge/GitHub-MartinSAMP-181717?style=for-the-badge&logo=github" />
-  </a>
-    <a href="https://huggingface.co/martinSAMP">
-    <img src="https://img.shields.io/badge/HuggingFace-martinSAMP-FFFF00?style=for-the-badge&logo=huggingface&logoColor=yellow" />
-  </a>
-  <a href="https://www.youtube.com/@martinsamp">
-    <img src="https://img.shields.io/badge/YouTube-@martinsamp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:martinyy09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/WUemgjdHYw">
-    <img src="https://img.shields.io/badge/Discord-Martin_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+## 🚀 About Me
+
+> *"Building modular systems that stand the test of time"*
+
+```diff
++ 🔧 Focus: SA-MP Gamemodes, Filterscripts, Plugin Integration
++ 🏗️  Philosophy: Clean, modular & maintainable architecture  
++ 🛡️  Currently: MySQL systems, Anti-cheat solutions, Admin tools
++ 🌱 Learning: Full-stack web development
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🎮 Primary Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Pawn-★★★★★-FFD700?style=for-the-badge&logo=none&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/SA--MP-★★★★★-2E8B57?style=for-the-badge&logo=none&logoColor=white&labelColor=1a1a2e" />
 </p>
+
+### 💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,cpp" />
+</p>
+
+### ⚡ Frameworks & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,jquery,tailwind" />
+</p>
+
+### 🗄️ Databases & Cache
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite" />
+</p>
+
+### 🛠️ Development Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MartinSAMP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" />
+  
+  <!-- Streak Stats -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinSAMP&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Top Languages -->
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSAMP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Contribution Graph -->
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MartinSAMP&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" />
+  
+</div>
+
+---
+
+## 🎬 YouTube Channel
+
+<div align="center">
+  
+  [![YouTube Banner](https://img.shields.io/badge/🎥_MartinSAMP_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@martinsamp)
+  
+  <p><i>SA-MP Development Tutorials • Server Showcases • Scripting Tips</i></p>
+  
+  <a href="https://www.youtube.com/@martinsamp?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/SUBSCRIBE_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=8B0000" />
+  </a>
+  
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartinSAMP)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@martinsamp)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WUemgjdHYw)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martinyy09@gmail.com)
+  [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFFF00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/martinSAMP)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0077b6&height=120&section=footer&text=Happy%20Coding!&fontSize=24&fontColor=ffffff&animation=twinkling" />
+  
+</div>
