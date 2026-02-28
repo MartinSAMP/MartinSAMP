@@ -32,7 +32,6 @@
 ### 🎮 Primary Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Pawn-★★★★★-FFD700?style=for-the-badge&logo=none&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/SA--MP-★★★★★-2E8B57?style=for-the-badge&logo=none&logoColor=white&labelColor=1a1a2e" />
 </p>
 
 ### 💻 Languages
@@ -61,40 +60,33 @@
 
 <div align="center">
   
-  <!-- GitHub Stats Card - dengan cache busting -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MartinSAMP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-  
-  <!-- Streak Stats - dengan konfigurasi stabil -->
-  <img width="49%" src="https://streak-stats.demolab.com/?user=MartinSAMP&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <!-- Profile Details Card -->
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MartinSAMP&theme=nord_dark" alt="Profile Details" />
   
 </div>
 
 <div align="center">
   
-  <!-- Top Languages - dengan exclude repo yang tidak relevan -->
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSAMP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10&hide=html,css&count_private=true&cache_seconds=86400" alt="Top Languages" />
+  <!-- Stats & Commits -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MartinSAMP&theme=nord_dark" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MartinSAMP&theme=nord_dark&utcOffset=7" alt="Productive Time" />
   
 </div>
 
 <div align="center">
   
-  <!-- Contribution Graph - dengan username yang benar -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MartinSAMP&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <!-- Languages -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MartinSAMP&theme=nord_dark" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MartinSAMP&theme=nord_dark" alt="Most Commit Language" />
   
 </div>
 
-<!-- Alternative Stats (jika yang diatas error) -->
-<details>
-<summary>📈 Alternative Stats (Click if images above not loading)</summary>
-<br>
 <div align="center">
   
-  [![MartinSAMP's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MartinSAMP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)](https://github.com/MartinSAMP)
-  
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MartinSAMP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)](https://github.com/MartinSAMP)
+  <!-- Contribution Graph using different service -->
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MartinSAMP&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
   
 </div>
-</details>
 
 ---
 
@@ -115,3 +107,8 @@
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0077b6&height=120&section=footer&text=Happy%20Coding!&fontSize=24&fontColor=ffffff&animation=twinkling" />
+  
+</div>
+Tapi ini perlu setup GitHub Action terlebih dahulu.
+
+Coba versi ini, seharusnya **100% works**! 🚀
