@@ -85,22 +85,6 @@
 
 ---
 
-## 🎬 YouTube Channel
-
-<div align="center">
-  
-  [![YouTube Banner](https://img.shields.io/badge/🎥_MartinSAMP_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@martinsamp)
-  
-  <p><i>SA-MP Development Tutorials • Server Showcases • Scripting Tips</i></p>
-  
-  <a href="https://www.youtube.com/@martinsamp?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/SUBSCRIBE_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=8B0000" />
-  </a>
-  
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
