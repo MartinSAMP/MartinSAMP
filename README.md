@@ -61,27 +61,40 @@
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MartinSAMP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats" />
+  <!-- GitHub Stats Card - dengan cache busting -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MartinSAMP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
   
-  <!-- Streak Stats -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MartinSAMP&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Top Languages -->
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSAMP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <!-- Streak Stats - dengan konfigurasi stabil -->
+  <img width="49%" src="https://streak-stats.demolab.com/?user=MartinSAMP&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
   
 </div>
 
 <div align="center">
   
-  <!-- Contribution Graph -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MartinSAMP&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true" alt="Contribution Graph" />
+  <!-- Top Languages - dengan exclude repo yang tidak relevan -->
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinSAMP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10&hide=html,css&count_private=true&cache_seconds=86400" alt="Top Languages" />
   
 </div>
+
+<div align="center">
+  
+  <!-- Contribution Graph - dengan username yang benar -->
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MartinSAMP&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  
+</div>
+
+<!-- Alternative Stats (jika yang diatas error) -->
+<details>
+<summary>📈 Alternative Stats (Click if images above not loading)</summary>
+<br>
+<div align="center">
+  
+  [![MartinSAMP's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MartinSAMP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)](https://github.com/MartinSAMP)
+  
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MartinSAMP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)](https://github.com/MartinSAMP)
+  
+</div>
+</details>
 
 ---
 
@@ -102,5 +115,3 @@
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0077b6&height=120&section=footer&text=Happy%20Coding!&fontSize=24&fontColor=ffffff&animation=twinkling" />
-  
-</div>
