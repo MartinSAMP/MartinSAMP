@@ -109,6 +109,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0077b6&height=120&section=footer&text=Happy%20Coding!&fontSize=24&fontColor=ffffff&animation=twinkling" />
   
 </div>
-Tapi ini perlu setup GitHub Action terlebih dahulu.
-
-Coba versi ini, seharusnya **100% works**! 🚀
