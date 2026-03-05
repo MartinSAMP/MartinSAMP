@@ -36,7 +36,7 @@
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,cpp,cs" />
 </p>
 
 ### ⚡ Frameworks & Tools
@@ -53,7 +53,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
 </p>
-
 ---
 
 ## 📊 GitHub Analytics
