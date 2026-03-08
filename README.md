@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/angga7togk" target="_blank">
+    <img src="https://i.pinimg.com/originals/30/dd/0a/30dd0aa01adf2eaef4692801e6ffb6fb.gif" width="50%">
+  </a>
+</p>
+
 <div align="center">
   
   # Hey, I'm Martin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
