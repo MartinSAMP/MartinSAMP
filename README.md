@@ -20,19 +20,6 @@
 
 ---
 
-## 🚀 About Me
-
-> *"Building modular systems that stand the test of time"*
-
-```diff
-+ 🔧 Focus: SA-MP Gamemodes, Filterscripts, Plugin Integration
-+ 🏗️  Philosophy: Clean, modular & maintainable architecture  
-+ 🛡️  Currently: MySQL systems, Anti-cheat solutions, Admin tools
-+ 🌱 Learning: Full-stack web development
-```
-
----
-
 ## 🛠️ Tech Arsenal
 
 ### 🎮 Primary Stack
