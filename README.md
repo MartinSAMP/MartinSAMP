@@ -14,7 +14,7 @@
   
   [![Profile Views](https://komarev.com/ghpvc/?username=MartinSAMP&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/MartinSAMP)
   [![GitHub followers](https://img.shields.io/github/followers/MartinSAMP?color=00d9ff&label=Followers&style=flat-square)](https://github.com/MartinSAMP)
-  [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxxxxxxxxxxxxxxxx?color=ff0000&label=YouTube&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@martinsamp)
+  [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLMXXXXXXXXXXXXXXXXX?color=ff0000&label=YouTube&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@martinsamp)
   
 </div>
 
@@ -44,7 +44,7 @@
 
 ### 🛠️ Development Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,bash" />
 </p>
 
 ---
